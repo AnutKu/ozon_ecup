@@ -1,6 +1,9 @@
 # Контроль качества: автоматическое выявление поддельных товаров
 
 Решение команды **Dream Team** в рамках [Ozon E-Cup 2025](https://e-cup-ozon.ru/) (вошли в топ-25 решений)
+<p>
+  <img src="https://github.com/user-attachments/assets/55a36046-7a9c-4ef2-93c8-af03ae4d298b" width="20%">
+</p>
 
 ## Задача
 
